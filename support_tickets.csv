@@ -1,0 +1,11 @@
+ticket_text,category,priority
+"Internet is not working since morning",Technical,High
+"Need help resetting my password",Account,Medium
+"Billing amount incorrect in last invoice",Billing,High
+"Unable to login to dashboard",Technical,High
+"Want to upgrade my subscription",Account,Low
+"Refund not processed yet",Billing,High
+"Website loading very slow",Technical,Medium
+"Change email address in profile",Account,Low
+"Received wrong charge on credit card",Billing,High
+"App keeps crashing after update",Technical,High
